@@ -1,1 +1,11 @@
-https://raw
+my-project/
+├── README.md
+├── LICENSE
+├── .gitignore
+├── .editorconfig
+├── CONTRIBUTING.md
+├── src/
+├── tests/
+└── .github/
+    └── workflows/
+        └── ci.yml
